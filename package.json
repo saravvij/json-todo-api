@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "json-server --watch db.json"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
