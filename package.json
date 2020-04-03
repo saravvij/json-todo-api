@@ -7,7 +7,7 @@
     "json-server": "^0.16.1"
   },
   "scripts": {
-    "start": "json-server --watch db.json --host https://json-todo-app.herokuapp.com"
+    "start": "json-server --watch db.json --host json-todo-app.herokuapp.com"
   },
   "engines": {
     "node": "12.x"
